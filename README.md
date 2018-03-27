@@ -1,2 +1,3 @@
-# thing.one.thing.two
-random things right now
+# Thing one, Thing two
+# Random things right now, 
+so please do more cool shtarff
